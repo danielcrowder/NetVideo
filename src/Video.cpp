@@ -6,6 +6,7 @@
 
 /*
   Student Email ID: dcc53
+  Name: Daniel Crowder
 */
 
 #include "Video.hpp"
