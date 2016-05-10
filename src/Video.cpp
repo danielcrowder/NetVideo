@@ -4,6 +4,10 @@
   Definition file for Video class
 */
 
+/*
+  Name: Daniel Crowder
+*/
+
 #include "Video.hpp"
 
 // constructor
