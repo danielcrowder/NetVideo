@@ -7,6 +7,7 @@
 /*
   Student Email ID: dcc53
   Name: Daniel Crowder
+  Institution: The University of Akron
 */
 
 #include "Video.hpp"
