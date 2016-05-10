@@ -4,6 +4,10 @@
   Definition file for Video class
 */
 
+/*
+  Student Email ID: dcc53
+*/
+
 #include "Video.hpp"
 
 // constructor
